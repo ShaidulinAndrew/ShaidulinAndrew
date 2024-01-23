@@ -44,7 +44,7 @@
 
 ### 🎓 Education
 * [GeekBrains](https://gb.ru) Data Science (2022 - present day)
-* [Sber Virtual Internship]
+* Sber Virtual Internship
 
 ### 🐶 ML/DL pet projects
 * [Стажировка SBER](https://github.com/ShaidulinAndrew/pet_data_sber)
