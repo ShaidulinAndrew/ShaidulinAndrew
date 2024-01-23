@@ -47,8 +47,8 @@
 * Sber Virtual Internship
 
 ### 🐶 ML/DL pet projects
-* [Стажировка SBER](https://github.com/ShaidulinAndrew/pet_data_sber)
-* [Отборочный этап стажировки ШИФТ](https://github.com/ShaidulinAndrew/pet_data_shift)
+* [Стажировка SBER](https://github.com/ShaidulinAndrew/pet_data_sber/blob/main/internship_sber.ipynb)
+* [Отборочный этап стажировки ШИФТ](https://github.com/ShaidulinAndrew/pet_data_shift/blob/main/competition_task_SHIFT.ipynb)
 * [Курсовая работа по SQL](https://github.com/ShaidulinAndrew/MySQL_course/tree/main)
 
 ### 🔗 Links
