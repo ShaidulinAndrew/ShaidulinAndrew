@@ -53,10 +53,10 @@
 
 ### 🔗 Links
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/андрей-шайдулин/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/андрей-шайдулин-aa5635284/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="android" width="30" height="30"/> 
   </a>
-  <a href="https://t.me/Андрей Шайдулин" target="_blank"> 
+  <a href="https://t.me/Shaydulin_andrew" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
   </a>
 </p>
