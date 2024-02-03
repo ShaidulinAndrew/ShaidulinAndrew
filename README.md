@@ -3,7 +3,7 @@
 </a>
 
 ### Мое резюме:
-- [Russian]()
+- [Russian](https://drive.google.com/file/d/1OhuEs7gh5Ovd3Ui3LTaw7mLDf9AEP2uc/view?usp=sharing)
 </a>
 
 ### 🤹🏽 ML/DS skills
